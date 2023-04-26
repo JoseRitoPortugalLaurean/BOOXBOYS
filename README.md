@@ -1,7 +1,7 @@
 # THECUBEGUY
 Intento de clon del videojuego BoxBoy desarrollado por Nintendo para la Nintendo 3DS, en JavaScript
 
-### Acerca de BoxBoy
+## Acerca de BoxBoy
 ![image](https://user-images.githubusercontent.com/126290786/234479825-c9deb7ef-dd62-49de-83b8-ad09ad7e1998.png)
 
 Boxboy! es una serie de juegos rompecabezas, plataformas y lógica creado por HAL Laboratory y publicado por Nintendo. La serie trata sobre el protagonista, Qbby, una caja cuadrada de color blanco que puede producir una pila de cajas de su mismo tamaño conectadas entre ellas. Las cajas son utilizadas para superar obstáculos en niveles por los que hay que guiar a Qbby hasta la meta. El primer juego, y del que tomé inspiración para este proyecto, BoxBoy!, fue lanzado el 14 de enero de 2015, en la Nintendo 3DS y desarrollado por HAL Laboratory, creadores de la saga Kirby.
