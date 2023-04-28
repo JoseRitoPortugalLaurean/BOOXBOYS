@@ -11,7 +11,7 @@ Este juego surgió como un proyecto experimental mientras HAL Laboratory desarro
 ![01_overview](https://user-images.githubusercontent.com/126290786/234463887-4e7dfeb9-b3e3-4d77-89db-869f42be6c5f.gif)
 
 ## Trailer del juego
-https://www.youtube-nocookie.com/embed/W1mvWVwdc_c
+https://www.youtube.com/watch?v=W1mvWVwdc_c
 
 # Diagrama UML
 ![thecubeguy drawio](https://user-images.githubusercontent.com/126290786/235075653-af14c7ec-d938-479b-b6ba-821f4a613606.png)
