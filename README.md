@@ -9,3 +9,7 @@ Boxboy! es una serie de juegos rompecabezas, plataformas y lógica creado por HA
 Este juego surgió como un proyecto experimental mientras HAL Laboratory desarrollaba Kirby: Triple Deluxe y Kirby and the Rainbow Curse. El proyecto para BoxBoy! fue concebido en julio del 2011 por el empleado Yasuhiro Mukae, quien se convertiría más tarde en el director de dicho juego. En el juego controlas a Qbby, al que tienes que dirigir hacia la meta utilizando cajas para resolver obstáculos. El juego fue muy bien recibido por la crítica.
 
 ![01_overview](https://user-images.githubusercontent.com/126290786/234463887-4e7dfeb9-b3e3-4d77-89db-869f42be6c5f.gif)
+
+
+# Diagrama UML
+![thecubeguy drawio](https://user-images.githubusercontent.com/126290786/235075653-af14c7ec-d938-479b-b6ba-821f4a613606.png)
